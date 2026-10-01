@@ -9,4 +9,6 @@ The current severe-only requirement produces two records:
 
 Expected record count: **2**
 
+Reviewers should confirm the count against the approved requirement before accepting a change.
+
 If the requirement changes, this file must be updated and reviewed with the implementation and automated tests.
